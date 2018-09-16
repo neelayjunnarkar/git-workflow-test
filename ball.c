@@ -2,7 +2,7 @@
 #include <math.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
-
+// cats
              main() {
          short a[4];ioctl
       (0,TIOCGWINSZ,&a);int
